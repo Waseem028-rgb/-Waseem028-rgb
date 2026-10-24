@@ -92,9 +92,9 @@ SQL · PL/SQL · MySQL
 
 <a href="https://github.com/Waseem028-rgb">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Waseem028_rgb&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Waseem028-rgb&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem028_rgb&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem028-rgb&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Most Used Languages"/>
 
 </a>
 
@@ -103,11 +103,11 @@ SQL · PL/SQL · MySQL
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waseem028_rgb&theme=tokyonight" width="95%" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waseem028-rgb&theme=tokyonight" width="95%" alt="GitHub Profile Details"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Waseem028_rgb&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Waseem028-rgb&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
 
 </details>
 
