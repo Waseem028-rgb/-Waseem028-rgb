@@ -150,8 +150,6 @@ SQL · PL/SQL · MySQL
 <br><br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25%" alt="Developer animation"/>
-
 <h3>Thanks for visiting my profile! 👋</h3>
-
 <strong>Keep Learning · Keep Building · Keep Improving</strong>
 </div>
