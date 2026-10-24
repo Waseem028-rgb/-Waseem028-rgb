@@ -154,5 +154,4 @@ SQL · PL/SQL · MySQL
 <h3>Thanks for visiting my profile! 👋</h3>
 
 <strong>Keep Learning · Keep Building · Keep Improving</strong>
-
 </div>
