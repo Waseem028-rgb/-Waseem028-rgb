@@ -90,7 +90,7 @@ SQL · PL/SQL · MySQL
 
 <div align="center">
 
-<a href="https://github.com/Waseem028_rgb">
+<a href="https://github.com/Waseem028-rgb">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Waseem028_rgb&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
 
