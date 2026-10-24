@@ -2,9 +2,9 @@
 
 <h1>Hi, I'm Wasem Al-qudsi 👋</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/><br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Developer Workspace" width="40%"/><br>
 
 <h3>🎓 Management Information Systems (MIS) | 💻 Programmer | 🚀 Technology Enthusiast</h3>
 
@@ -37,6 +37,7 @@ I'm Wasem Al-qudsi, a Management Information Systems student interested in progr
 - 🐧 Interested in exploring technology and operating systems.
 - 📚 Always learning and improving my programming skills.
 
+<br>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%"/>
 
 ## 🛠️ Tools & Technologies
@@ -58,8 +59,7 @@ I'm Wasem Al-qudsi, a Management Information Systems student interested in progr
 <p>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 </p>
-
-SQL · PL/SQL · MySQL
+<p>SQL · PL/SQL · MySQL</p>
 
 ### Currently Learning
 
@@ -91,11 +91,11 @@ SQL · PL/SQL · MySQL
 <div align="center">
 
 <a href="https://github.com/Waseem028-rgb">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Waseem028-rgb&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
+</a>
 
+<a href="https://github.com/Waseem028-rgb">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem028-rgb&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Most Used Languages"/>
-
 </a>
 
 <details>
@@ -120,36 +120,31 @@ SQL · PL/SQL · MySQL
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Finding a bug"/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixing the bug"/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Unexpected result"/>
 
-<br>
-
+<br><br>
 <strong>Code → Debug → Fix → Learn → Repeat</strong>
-
-<br><br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20%" alt="Coding animation"/>
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" alt="Message icon"/>
-
-&nbsp; Always learning, building, and exploring new technologies.
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" alt="Contact icon"/>
-
-&nbsp; Find my projects on [GitHub](https://github.com/Waseem028_rgb).
+<br><br>  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" width="20%" alt="Coding animation"/>
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25%" alt="Developer animation"/>
+<p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="25" alt="Message icon"/>
+&nbsp; Always learning, building, and exploring new technologies.
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="25" alt="Contact icon"/>
+&nbsp; Find my projects on GitHub.
+</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25%" alt="Developer animation"/>
 <h3>Thanks for visiting my profile! 👋</h3>
 <strong>Keep Learning · Keep Building · Keep Improving</strong>
+
 </div>
